@@ -19,8 +19,7 @@ Depolyment link https://shivansh63.github.io/Whack_A_Mole/
 
 ## Features
 
-- A start button to start the game and a reset button to reset it.
-- Mouse over event is used to hit the mole and to score points.
+- Users earn a point when user successfully whacks a mole.
 
 ## Used By
 
