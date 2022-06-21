@@ -1,17 +1,17 @@
-
 # Whack a Mole
-- It's a gaming website. 
+
+- It's a gaming website.
 - In order to score in this game you have to hit a mole.
 
-
 ## Tech Stack
+
 - HTML
 - CSS
 - Java Script
 
 ## Screenshots
 
-<img src="images/screenshot2.png" alt="Screenshot">
+<img src="images/screenshot.png" alt="Screenshot">
 
 ## Deployment
 
