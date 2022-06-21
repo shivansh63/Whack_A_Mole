@@ -15,7 +15,7 @@
 
 ## Deployment
 
-Depolyment link https://master--snazzy-zabaione-8f4d42.netlify.app/
+Depolyment link https://shivansh63.github.io/Whack_A_Mole/
 
 ## Features
 
